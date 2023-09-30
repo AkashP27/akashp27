@@ -79,3 +79,22 @@
 </p>
 
 <br>
+
+## 🛠️ Projects
+
+### REST API
+
+|                                            NodeJs                                             |                          Springboot                           |
+| :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|           [Authorization using JWT](https://github.com/AkashP27/API/tree/main/JWT)            |         [OAUTH2](https://github.com/AkashP27/OAUTH2)          |
+| [Payment Integration using Razorpay](https://github.com/AkashP27/API/tree/main/payment%20API) | [Image Gallery](https://github.com/AkashP27/Image_Cloudinary) |
+|                    [AWS S3](https://github.com/AkashP27/API/tree/main/S3)                     |
+
+### Web Development :computer:
+
+|                                               ReactJS                                                |                                         MERN                                          |                   Angular/ Springboot                    |
+| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| [Coin Info](https://github.com/AkashP27/crypto-coin) [(live)](https://cryptocoin-akash.netlify.app/) | [MBlog](https://github.com/AkashP27/mblog) [(live)](https://mblog-akash.netlify.app/) | [Bank Application](https://github.com/AkashP27/bank-app) |
+|                     [Food Order App](https://github.com/AkashP27/Food-Order-App)                     |
+
+<br>
