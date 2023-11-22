@@ -92,9 +92,9 @@
 
 ### Web Development :computer:
 
-|                                               ReactJS                                                |                                         MERN                                          |                   Angular/ Springboot                    |
-| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
-| [Coin Info](https://github.com/AkashP27/crypto-coin) [(live)](https://cryptocoin-akash.netlify.app/) | [MBlog](https://github.com/AkashP27/mblog) [(live)](https://mblog-akash.netlify.app/) | [Bank Application](https://github.com/AkashP27/bank-app) |
-|                     [Food Order App](https://github.com/AkashP27/Food-Order-App)                     |
+|                                               ReactJS                                                |                                                  MERN                                                  |                   Angular/ Springboot                    |
+| :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| [Coin Info](https://github.com/AkashP27/crypto-coin) [(live)](https://cryptocoin-akash.netlify.app/) |         [MBlog](https://github.com/AkashP27/mblog) [(live)](https://mblog-akash.netlify.app/)          | [Bank Application](https://github.com/AkashP27/bank-app) |
+|                     [Food Order App](https://github.com/AkashP27/Food-Order-App)                     | [Code Decode](https://github.com/AkashP27/code-decode) [(live)](https://codedecode-akash.netlify.app/) |
 
 <br>
