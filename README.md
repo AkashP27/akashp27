@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Spring Security**
 
-- 💬 Ask me about **node, react, spring**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akash-phayade" target="_blank">
